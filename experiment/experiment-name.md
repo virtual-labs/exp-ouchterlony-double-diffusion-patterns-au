@@ -1,1 +1,1 @@
-## Experiment name
+## Ouchterlony Double Diffusion - Patterns
