@@ -52,11 +52,10 @@ Observe for the presence of precipitin lines between the antigen and antisera we
 
 Fig 2 : Glass plate showing pattern of lines obtained following Ouchterlony double diffusion
 
+ &nbsp;
+ 
  
 #### Precautions
-
-&nbsp;
-
 
 1. Wipe the glass plate with alcohol to make it grease free for even spreading of agarose.
 
