@@ -1,0 +1,47 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "1.Antibody can bind to",
+      "answers": {
+        "a": "The whole antigen molecule",
+        "b": "Antigenic determinants",
+        "c": "B-cell receptor",
+        "d": "T-cell receptor"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "2.Pattern of identity is observed in Ouchterlony double diffusion only if",
+      "answers": {
+        "a": "the two antigens are immunologically unrelated",
+        "b": "the two antigens are partially identical",
+        "c": "the two antigens are immunologically identical",
+        "d": "None of the above"
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "3.Double diffusion is based on the principle of precipitation",
+      "answers": {
+        "a": "True",
+        "b": "False"
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "4.In Ouchterlony double diffusion",
+      "answers": {
+        "a": "Only antigen is allowed to migrate",
+        "b": "Only antibody is allowed to migrate",
+        "c": "Neither antibody nor antigen are allowed to migrate",
+        "d": "Both antigen and antibody are allowed to migrate"
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    }
+  ]
+}
