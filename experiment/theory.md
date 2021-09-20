@@ -1,6 +1,5 @@
-## Principle
+### Principle
 
-&nbsp;
 
 The key reaction of immunology and immune defense is the interaction of antibodies and antigens.  This interaction  is responsible for the body’s defense against viral and bacterial infections and other toxins.  The body’s defense mechanism  recognizes foreign substances, or antigens, and raises specific antibodies against them.   
  
@@ -20,21 +19,21 @@ Fig 1: Different patterns of lines obtained on Ouchterlony  double diffusion
 
 
 
-### Pattern of Identity: A
+#### Pattern of Identity: A
  
 
 The antibodies in the antiserum react with both the antigens resulting in a smooth line of precipitate. The antibodies cannot distinguish between the two antigens. i.e., the two antigens are immunologically identical.
 
  
 
-### Pattern of Partial Identity: B
+#### Pattern of Partial Identity: B
  
 
 In the ‘pattern of partial identity’, the antibodies in the antiserum react more with one of the antigens than the other. The ‘spur’ is thought to result from the determinants present in one antigen but lacking in the other antigen
 
  
 
-### Pattern of Non-Identity: C
+#### Pattern of Non-Identity: C
  
 
 In the ‘pattern of non-identity’, none of the antibodies in the antiserum react with antigenic determinants that may be present in both the antigens, i.e., the two antigens are immunologically unrelated as far as that antiserum is concerned.
